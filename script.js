@@ -2,5 +2,5 @@ function hi() {
     alert("hello");
 }
 function ham(){
-    alert("why")
+    alert("why");
 }
