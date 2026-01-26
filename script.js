@@ -4,3 +4,6 @@ function hi() {
 function ham(){
     alert("why");
 }
+function bam(){
+    alert("good")
+}
