@@ -7,3 +7,6 @@ function ham(){
 function bam(){
     alert("good")
 }
+function what(){
+    alert ("button")
+}
