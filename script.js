@@ -10,3 +10,7 @@ function bam(){
 function what(){
     alert ("button")
 }
+
+dropdown.addEventListener("change", function(){
+    alert(dropdown.value);
+});
